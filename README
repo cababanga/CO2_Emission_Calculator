@@ -1,3 +1,6 @@
 This program is a CO2 Emission Calculator for different transportation types in Paris. The accurate values for the average CO2 emission per passenger per kilometer (in gCO2) could be found in the co2.h file which was obtained from RATP.fr . 
 
 This program is built not only to have a timer to keep track of the duration and the related CO2 emission caused according to the types of transportation used by the user’s accumulated journey in Paris, but also, to recommend the most CO2 and time efficient transportation according to the position of the traveler and the desired place to go.
+
+I actually wanted to add a Google Maps API to let the user to pick their current location and the desired location to go. But I couldn't manage that and in order just to show the idea, I am just asking the user to input her cartesian coordinates explicitly which doesn't make any sense for a real user.
+Thanks.
